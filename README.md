@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## 个人简历
+### 联系方式
+- 手机: 17643392899
+- Email: kwg126@hanyang.ac.kr
 
-You can use the [editor on GitHub](https://github.com/kwg126/kwg126.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### 个人信息
+- 姓名/性别/出生年份
+- 本科/延边大学/计算机科学与技术 2017-2021
+- 硕士/汉阳大学/计算机工学 2022-2024
+- 工作年限: x年
+- 技术博客: https://kwg126.github.io/blog/
+-           https://blog.csdn.net/weixin_42676396?type=blog
+- Github: https://github.com/kwg126
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 工作经历
+#### 长光辰普(2021.10 ~ 2021.12)
+**项目描述:**
+该项目主要是xxxx。
+**实现技术:**
 
-### Markdown
+**职责描述:**
+1.
+2.
+3.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 其他项目
+- 'xxxx项目':该项目是xxxx,使用xxx技术,完成xxx功能
 
-```markdown
-Syntax highlighted code block
+**项目描述:**
+该项目主要是xxxx。
+**实现技术:**
 
-# Header 1
-## Header 2
-### Header 3
+**职责描述:**
+1.
+2.
+3.
 
-- Bulleted
-- List
+**开源贡献**
 
-1. Numbered
-2. List
+**技术文章**
 
-**Bold** and _Italic_ and `Code` text
+**技能清单**
 
-[Link](url) and ![Image](src)
-```
+**自我评价**
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kwg126/kwg126.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    **致谢**
+    - 感谢您花时间阅读我的简历，期待能有机会和您共事。
